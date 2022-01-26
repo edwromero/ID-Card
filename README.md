@@ -1,6 +1,6 @@
-# enr_id
+# ID-CARD
 
-A new Flutter project.
+A new Flutter project.A simple demonstration of my time in the Dart language. An info card com a "level" sum state.
 
 ![GIF](https://github.com/edwromero/ID-Card/blob/main/IDcard.gif).
 ## Getting Started
